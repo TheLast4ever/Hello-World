@@ -1,3 +1,3 @@
 # Hello-World
-Traditions
+Traditions.
 Now its time to edit my first file there ;)
